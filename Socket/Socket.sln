@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Socket", "Socket\Socket.csproj", "{E0A1FF2B-6F32-469B-A926-11BBAEE2526F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{C86CCB30-67EF-4AF2-908A-AF4EECAE8694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{2B6269E0-2516-4E37-9ACD-C74CDDDD7245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0A1FF2B-6F32-469B-A926-11BBAEE2526F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0A1FF2B-6F32-469B-A926-11BBAEE2526F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0A1FF2B-6F32-469B-A926-11BBAEE2526F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0A1FF2B-6F32-469B-A926-11BBAEE2526F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C86CCB30-67EF-4AF2-908A-AF4EECAE8694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C86CCB30-67EF-4AF2-908A-AF4EECAE8694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C86CCB30-67EF-4AF2-908A-AF4EECAE8694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C86CCB30-67EF-4AF2-908A-AF4EECAE8694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B6269E0-2516-4E37-9ACD-C74CDDDD7245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B6269E0-2516-4E37-9ACD-C74CDDDD7245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B6269E0-2516-4E37-9ACD-C74CDDDD7245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B6269E0-2516-4E37-9ACD-C74CDDDD7245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD04A0D-AAE1-4F29-A094-B34EB36FFCF8}
+	EndGlobalSection
+EndGlobal
